@@ -1,0 +1,1 @@
+kubectl delete vcjob -n gcr-admin $1
