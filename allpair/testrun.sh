@@ -48,6 +48,6 @@ mp_cmd=(
 )
 
 # --- To run the command ---
-#
-# echo "Executing command: ${mp_cmd[@]}"
-# "${mp_cmd[@]}"
+
+echo "Executing command: ${mp_cmd[@]}"
+"${mp_cmd[@]}"
